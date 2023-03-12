@@ -18,5 +18,5 @@ Welcome to The Wheel Deal, your one-stop-shop for car rentals! Our goal is to pr
  Download and install xampp before cloning the repository to your local machine. <br>
  Once the Installation is successfully completed, copy the files to xampp:\htdocs folder <br>
  Run Xampp and start Apche and MySQL.
- Next visit http://localhost/phpmyadmin/ and import the sql file inside the db folder.
+ Next visit http://localhost/phpmyadmin/ and import the sql file, namely "cars.sql" inside the db folder.
  Finally visit http://localhost/car_rental/ to view and use the website
